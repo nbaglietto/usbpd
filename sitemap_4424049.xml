@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://usbpd.chinaimport.com.ar/</loc>
+       <lastmod>2024-04-11T02:38:46+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://usbpd.chinaimport.com.ar/index.html</loc>
+       <lastmod>2024-04-11T02:38:46+00:00</lastmod>
+       <changefreq>weekly</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://usbpd.chinaimport.com.ar/pdf/distribuidores.pdf</loc>
+       <lastmod>2024-04-10T19:20:44+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+</urlset>
